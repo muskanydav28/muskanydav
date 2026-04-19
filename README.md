@@ -2,9 +2,8 @@
 
 <h2 align="center">🚀 AWS DevOps Engineer | Cloud | Automation | Kubernetes</h2>
 
-<p align="center">
-Welcome to my GitHub Profile 💙
-</p>
+<img width="1865" height="218" alt="image" src="https://github.com/user-attachments/assets/07c28b6e-c515-4f70-a3d9-91cfe249b40b" />
+
 
 ---
 
