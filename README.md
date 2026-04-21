@@ -2,8 +2,7 @@
 
 <h2 align="center"> Software Developer </h2>
 
-<img width="1865" height="218" alt="image" src="https://github.com/user-attachments/assets/07c28b6e-c515-4f70-a3d9-91cfe249b40b" />
-
+<img width="1149" height="120" alt="image" src="https://github.com/user-attachments/assets/c99e3e7f-cff7-43a8-bb68-79b9b94c4e59" />
 
 ---
 
