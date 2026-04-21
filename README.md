@@ -29,7 +29,7 @@ and system fundamentals, with a strong ability to learn tools quickly and suppor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanydav28&theme=tokyonight" />
 </p>
 
 ---
