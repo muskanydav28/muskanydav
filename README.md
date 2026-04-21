@@ -21,19 +21,6 @@ and system fundamentals, with a strong ability to learn tools quickly and suppor
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskanydav28&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanydav28&theme=tokyonight" />
-</p>
-
----
-
-
 ### 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/muskan-yadav-70a2432a5/
