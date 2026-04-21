@@ -69,7 +69,7 @@ I'm a DevOps Engineer with 4.5+ years of experience in building, automating, and
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/mona-savita/
 - 📧 Email: monasavita926@gmail.com
 
 ---
